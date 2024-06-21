@@ -309,8 +309,8 @@ input {
 }
 
 .container {
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
   max-width: 300px;
   max-height: 300px;
   display: flex;
@@ -342,7 +342,7 @@ input {
 
 .cards .card {
   position: relative;
-  height: 100%;
+  height: 50%;
   background-color: #323444;
   border-radius: 5px;
   padding: 15px 17.5px;
@@ -357,7 +357,7 @@ input {
   border-radius: 2.5px;
   box-shadow: 7.5px 7.5px 20px rgba(0, 0, 0, 50%);
   margin-top: 11.5px;
-  width: 86%;
+  width: 43%;
   height: 110px;
   object-fit: cover;
   transition: all 0.7s;
@@ -405,7 +405,7 @@ input {
   color: var(--current-color1);
   letter-spacing: 4px;
   margin-bottom: 10px;
-  padding-left: 25%;
+  padding-left: 12.5%;
   transition: all 0.6s ease;
 }
 
